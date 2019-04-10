@@ -1,8 +1,8 @@
-# New Iron Age, HBV bwa pipeline spec
+# Constanza, HBV bwa pipeline spec
 
 This repo contains a
 [slurm-pipeline](https://github.com/acorg/slurm-pipeline) specification
-file (`specification.json`) and associated scripts for processing the Siberian data from April 2019, using bwa, against a hbv database.
+file (`specification.json`) and associated scripts for processing Constanza's data from April 2019, using bwa, against a hbv database.
 
 ## Pipeline steps
 

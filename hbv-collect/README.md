@@ -1,4 +1,4 @@
-# Siberians, HBV collector pipeline
+# Constanza, HBV collector pipeline
 
 This repo contains a
 [slurm-pipeline](https://github.com/acorg/slurm-pipeline) specification

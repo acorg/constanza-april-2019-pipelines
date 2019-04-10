@@ -1,9 +1,9 @@
-# Siberians initial pipeline spec
+# Constanza initial pipeline spec
 
 This repo contains a
 [slurm-pipeline](https://github.com/acorg/slurm-pipeline) specification
 file (`specification.json`) and associated scripts for processing Constanza's
-Siberian data.
+data.
 
 ## Pipeline steps
 
